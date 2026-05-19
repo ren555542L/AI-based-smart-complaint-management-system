@@ -413,11 +413,16 @@ VITE_API_URL=https://your-backend-app.onrender.com/api
 
 | Page | Screenshot |
 |------|------------|
-| Dashboard | *(Add screenshot here)* |
-| Complaint List | *(Add screenshot here)* |
-| Submit Complaint | *(Add screenshot here)* |
-| AI Analysis | *(Add screenshot here)* |
-| Login | *(Add screenshot here)* |
+| Dashboard | <img width="1907" height="940" alt="image" src="https://github.com/user-attachments/assets/6776233f-6fdf-40d2-a042-b48c6f5c4fab" />
+ |
+| Complaint List | <img width="1914" height="932" alt="image" src="https://github.com/user-attachments/assets/d44799ea-dd63-4564-ae40-55168e3e9841" />
+ |
+| Submit Complaint | <img width="1902" height="935" alt="image" src="https://github.com/user-attachments/assets/2c66be7a-7776-4d8b-8ad7-1096bbd4b64b" />
+ |
+| AI Analysis | <img width="689" height="836" alt="image" src="https://github.com/user-attachments/assets/3e578bf5-80b0-4936-8297-5649b73e46e7" />
+ |
+| Login | <img width="1901" height="932" alt="image" src="https://github.com/user-attachments/assets/e3e4ba67-e267-41b0-b5f3-300eacace445" />
+ |
 
 ---
 
