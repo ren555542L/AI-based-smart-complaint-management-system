@@ -41,9 +41,9 @@ API.interceptors.response.use(
 
 // ─── Auth API ─────────────────────────────────────────────────────────────────
 export const authAPI = {
-  signup: (data) => API.post("/api/auth/signup", data),
-  login: (data) => API.post("/api/auth/login", data),
-  getMe: () => API.get("/api/auth/me"),
+  signup: (data) => API.post("auth/signup", data),
+  login: (data) => API.post("auth/login", data),
+  getMe: () => API.get("auth/me"),
 };
 
 // ─── Complaints API ───────────────────────────────────────────────────────────
