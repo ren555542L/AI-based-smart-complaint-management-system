@@ -6,7 +6,7 @@ import axios from "axios";
  * In production:  Set VITE_API_URL in frontend .env
  */
 const API = axios.create({
-  baseURL: import.meta.env.VITE_API_URL || "/api",
+  baseURL: import.meta.env.VITE_API_URL || "http://localhost:5000/api",
   headers: { "Content-Type": "application/json" },
   timeout: 30000,
 });
